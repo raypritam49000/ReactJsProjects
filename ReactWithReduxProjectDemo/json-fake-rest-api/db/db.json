@@ -1,0 +1,16 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Pritam Ray",
+      "city": "Prem Nagar",
+      "salary": "45000"
+    },
+    {
+      "name": "Suarj Mehta",
+      "city": "Ropar",
+      "salary": "60000",
+      "id": "2"
+    }
+  ]
+}

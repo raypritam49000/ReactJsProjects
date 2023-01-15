@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "name": "Omi Verma",
+      "city": "Rup Nagar",
+      "salary": "65000",
+      "id": "2"
+    },
+    {
+      "name": "Suraj Mehta",
+      "city": "Prem Nagar",
+      "salary": "55000",
+      "id": "3"
+    },
+    {
+      "id": "6",
+      "name": "Rahul Kumar",
+      "city": "Ropar",
+      "salary": "1230000"
+    }
+  ]
+}

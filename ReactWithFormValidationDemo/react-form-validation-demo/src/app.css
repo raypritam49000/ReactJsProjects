@@ -1,0 +1,13 @@
+.help-block{ 
+    color: #c51244 !important;
+    border-radius: 0 !important;
+    position: relative; 
+    display: inline-block !important;
+    margin-top: 10px;
+  }
+  
+  .has-error{
+    border-color: #c51244 !important;
+  }
+  
+  

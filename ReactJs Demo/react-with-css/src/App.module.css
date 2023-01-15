@@ -1,0 +1,22 @@
+.one{
+    color:yellow;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:30px;
+}
+
+.two{
+    background-color: aqua;
+}
+
+.font{
+    font-size: 30px;
+}
+
+.save{
+    background-color:red
+}
+
+.cancle{
+    background-color:yellow
+}

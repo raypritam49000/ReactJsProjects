@@ -1,0 +1,32 @@
+{
+  "details": [
+    {
+      "id": 4,
+      "name": "Chandan Kumar",
+      "email": "chahanyadav123@gmail.com",
+      "phone": "7000908320",
+      "country": "India"
+    },
+    {
+      "id": 5,
+      "name": "Amit Kumar",
+      "email": "amitsahani123@gmail.com",
+      "phone": "8932940320",
+      "country": "India"
+    },
+    {
+      "id": 6,
+      "name": "Ajay Sahani",
+      "email": "ajaysahani123@gmail.com",
+      "phone": "6672320987",
+      "country": "India"
+    },
+    {
+      "name": "Pritam Raj",
+      "email": "raypritam49000@gmail.com",
+      "phone": "8699535682",
+      "country": "India",
+      "id": 8
+    }
+  ]
+}
